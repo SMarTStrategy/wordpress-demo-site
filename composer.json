@@ -1,0 +1,16 @@
+{
+    "name": "smart/wordpress-demo-site",
+    "description": "Demo Wordpress Site",
+    "type": "project",
+    "require": {
+        "johnpbloch/wordpress": "^5.4",
+        "wecodemore/wpstarter": "3.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Giovanni Albero",
+            "email": "giovanni@smartstrategy.eu"
+        }
+    ]
+}
