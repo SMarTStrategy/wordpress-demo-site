@@ -20,5 +20,8 @@
             "name": "Giovanni Albero",
             "email": "giovanni@smartstrategy.eu"
         }
-    ]
+    ],
+    "require-dev": {
+        "deployer/deployer": "^6.8"
+    }
 }
