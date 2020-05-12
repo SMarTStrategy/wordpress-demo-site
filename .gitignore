@@ -3,4 +3,7 @@ node_modules/
 /.env
 /wordpress
 /wp-cli.yml
+/wp-content/plugins
+/wp-content/themes
+/wp-config.php
 

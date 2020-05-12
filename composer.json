@@ -10,7 +10,9 @@
     ],
     "require": {
         "johnpbloch/wordpress": "^5.4",
-        "wecodemore/wpstarter": "3.x-dev"
+        "wecodemore/wpstarter": "3.x-dev",
+        "wpackagist-plugin/wordpress-seo": "14.0.4",
+        "wpackagist-theme/twentytwenty": "1.2"
     },
     "license": "MIT",
     "authors": [
