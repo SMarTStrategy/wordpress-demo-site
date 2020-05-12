@@ -2,6 +2,12 @@
     "name": "smart/wordpress-demo-site",
     "description": "Demo Wordpress Site",
     "type": "project",
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
+        }
+    ],
     "require": {
         "johnpbloch/wordpress": "^5.4",
         "wecodemore/wpstarter": "3.x-dev"
