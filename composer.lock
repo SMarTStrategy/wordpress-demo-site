@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f39644efae264579df47fc61c85b90d2",
+    "content-hash": "73b2ab1faed26b70d312e66006379967",
     "packages": [
         {
             "name": "composer/installers",
@@ -132,6 +132,15 @@
                 "zikula"
             ],
             "time": "2020-04-07T06:57:05+00:00"
+        },
+        {
+            "name": "extra/contact-form",
+            "version": "7.5.1.7",
+            "dist": {
+                "type": "zip",
+                "url": "./external-plugins/contact-form-7.5.1.7.zip"
+            },
+            "type": "wordpress-plugin"
         },
         {
             "name": "johnpbloch/wordpress",

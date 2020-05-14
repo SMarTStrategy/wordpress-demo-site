@@ -6,13 +6,30 @@
         {
             "type":"composer",
             "url":"https://wpackagist.org"
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "extra/contact-form",
+                "version": "7.5.1.7",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "type": "zip",
+                    "url": "./external-plugins/contact-form-7.5.1.7.zip"
+                }
+            },
+            "require": {
+                "composer/installers": "v1.9"
+            }
         }
+
     ],
     "require": {
         "johnpbloch/wordpress": "^5.4",
         "wecodemore/wpstarter": "3.x-dev",
         "wpackagist-plugin/wordpress-seo": "14.0.4",
-        "wpackagist-theme/twentytwenty": "1.2"
+        "wpackagist-theme/twentytwenty": "1.2",
+        "extra/contact-form": "7.5.1.7"
     },
     "license": "MIT",
     "authors": [

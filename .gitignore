@@ -3,7 +3,6 @@ node_modules/
 /.env
 /wordpress
 /wp-cli.yml
-/wp-content/plugins
-/wp-content/themes
+/wp-content
 /wp-config.php
 /.env.cached.php
