@@ -54,14 +54,14 @@ defined('DB_COLLATE') or define('DB_COLLATE', '');
 /**#@+
  * Authentication Unique Keys and Salts.
  */
-defined('AUTH_KEY') or define('AUTH_KEY', '/K$Ps[QCFXGh&w0e#?wdbo-z1|@zqG^&Mk=a#@o`Go=Bu1(etuO^7@lz?4aop Zs');
-defined('SECURE_AUTH_KEY') or define('SECURE_AUTH_KEY', '$j7zI$HTjB:[0{n3c/[ %J!{geFp&Zu@ JB<o-OC75Si=+~eZ56(F;%.n&1o>geG');
-defined('LOGGED_IN_KEY') or define('LOGGED_IN_KEY', 'C@ojOv qks0)a;o`w$!`K[6uv]F$j@[H<y,rdk}Au<2W@0>1<E%Q(>ZTp|-Bzx}x');
-defined('NONCE_KEY') or define('NONCE_KEY', 'qg%OT5HdjO*H#*z~5I?}t@1<3Ko8[u#f)do>Qx p2Sdtw2o@t0/gGYQ/+FTJN[Fw');
-defined('AUTH_SALT') or define('AUTH_SALT', 'eFX-T?gSEgX3QAa-s!_UIv4h}?rPOctv=OTkoRf~3s8fC$i3UFb$$~9~@wUNgfxR');
-defined('SECURE_AUTH_SALT') or define('SECURE_AUTH_SALT', 'oFx,^d;{=g5p4i8x!e[c;cv{DC>Up$LH.s4;&Qhp-,,YWvkNsMv{G|BwGpm^v}a8');
-defined('LOGGED_IN_SALT') or define('LOGGED_IN_SALT', 'm2/:Dwm(@6&8R7g*Tq>u*jVK+h2/m~Ve)>;9sb[?dtSNqQ%?M*bsy [D9(1.=Mg7');
-defined('NONCE_SALT') or define('NONCE_SALT', '|11?y<D2[$d=0`J&OAk,?[9Iv/wh`L&/XQQ(D(Swc>31 ,N!fO9K@K)Bf_ooGR{F');
+defined('AUTH_KEY') or define('AUTH_KEY', '_Mx4>jo<h%)*~mRdBSp@n7+G7x t1)/9Se8{?RDbZJzZg6<TPBc-Y.6.XsF9m4<H');
+defined('SECURE_AUTH_KEY') or define('SECURE_AUTH_KEY', '1HEZQO&/$wC3s[88-lBYvSS>qX=B+@B._.NE}D=6ngpt0EI>-J]40]kx[f|-kMDW');
+defined('LOGGED_IN_KEY') or define('LOGGED_IN_KEY', 'G,&Jz=!_ahX,Ul6+y|ZT&%2^hxP{lefa6cY/40dQA<vis`Pq5lAu1E_O%Gm4bU5#');
+defined('NONCE_KEY') or define('NONCE_KEY', 'I(X{~6M~x6sJ~>U<=nCQN#56`fr@3wv#<Ng{0 T)k? .q>{fO~=%Cz]5i&lTS@&C');
+defined('AUTH_SALT') or define('AUTH_SALT', 'uo#L^mWV^lKLeGdH+He=CzZ`,n(-!)n2+I|/zF;g2-4`KS&p)2cqkEhEw].jvvP/');
+defined('SECURE_AUTH_SALT') or define('SECURE_AUTH_SALT', '-1IsOiSYozvVh_#UPM5YLwAt(ddVv6vI-Q6<83hG_%p uRa?f%1Z3x`Bw>Tdz7e:');
+defined('LOGGED_IN_SALT') or define('LOGGED_IN_SALT', '+|~e@>k(,X4tv)^#s7j%0&S{bAVGg4;{:Bl]>5hqb&;EDvKI`:q7,ZVbDai%p7$m');
+defined('NONCE_SALT') or define('NONCE_SALT', 'ggrd#/,r>J&KZy*Mg}I(bs:R6eqZG@VK?c{2+m2<f`#(#pI|ZJ0ShWtDuYEzr~Ur');
 
 /**#@-*/
 
